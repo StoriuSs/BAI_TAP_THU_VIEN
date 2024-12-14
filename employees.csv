@@ -1,0 +1,7 @@
+Employee ID,Name,Department,Position,Date of Birth,Gender,ID Number,Place of Issue,Date of Issue,Is Customer,Is Supplier
+NV001,Nguyễn Văn A,Phân xưởng que hàn,Công nhân,14/12/1990,Nam,123456789,Hà Nội,15/05/2020,Yes,No
+NV002,Lê Thị B,Kế toán,Kế toán trưởng,14/12/1985,Nữ,987654321,TP Hồ Chí Minh,20/03/2018,No,Yes
+NV003,Trần Văn C,Sales,Nhân viên kinh doanh,25/06/1992,Nam,123987456,Đà Nẵng,10/10/2021,Yes,Yes
+NV004,Phạm Thị D,Phân xưởng que hàn,Công nhân,01/01/1980,Nữ,789456123,Hải Phòng,05/05/2022,No,No
+NV005,Ngô Thị E,Ăn không ngồi rồi ;),Freelancer,30/04/1995,Nữ,741258963,Hà Nội,12/12/2021,Yes,Yes
+NV006,Hoàng Văn F,Phân xưởng que hàn,Quản lý,10/07/1988,Nam,852963741,Quảng Ninh,08/08/2021,No,Yes
